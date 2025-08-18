@@ -1,0 +1,4 @@
+# Thesis_Schelling_Oracles
+Students will explore Schelling point oracles, particularly in the context of dispute resolution systems, i.e., systems in which individual participants vote on questions presented to the oracle, and receive rewards if their vote agrees with the collective response of the system. A variety of methodologies are proposed including approaches based on simulations, machine learning, and theory. As a starting point, students will have access to the data of past cases on the Kleros platform, which is an example of a dispute resolution system that is based on a Schelling point oracle.
+
+Variant 1 - Create an agent-based model of a Schelling point oracle and use it to analyse appropriate parameter choices in environments where there is an attacker that performs p+epsilon attacks. Related work: https://cryptoeconomicsystems.pubpub.org/pub/george-schelling-attacks/release/7
