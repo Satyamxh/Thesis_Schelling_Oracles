@@ -1,2 +1,4 @@
 /batch_results_attack_symbiotic.csv
 /batch_results_synthetic_data.csv
+
+__pycache__/
