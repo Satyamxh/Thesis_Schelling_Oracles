@@ -228,7 +228,7 @@ BOOT_SAMPLES_PER_CASE = 50  # adjust as needed
 rng = np.random.default_rng(42)
 
 # Load your batch simulation CSV that has n_jurors, vote_X_count, lambda, x
-BATCH_RESULTS_PATH = Path(__file__).parent / "batch_results_synthetic_data.csv"
+BATCH_RESULTS_PATH = Path(__file__).parent / "batch_results.csv"
 batch_df = (
     pd.read_csv(
         BATCH_RESULTS_PATH,
