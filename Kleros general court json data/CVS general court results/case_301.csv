@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:85a2788cc70cbd1edd43c97638dfdf75a207a1ff108bdb6df2df9853220882fb
-size 56
+,Vote Count,Total Jurors,Ratio
+X,3,4,0.75
+Y,1,4,0.25
